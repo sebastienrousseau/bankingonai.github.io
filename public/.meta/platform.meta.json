@@ -1,0 +1,17 @@
+{
+  "author": "The Banking On AI Team",
+  "banner": "https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg",
+  "banner_alt": "Banking On AI — Artificial Intelligence in Modern Banking & Finance",
+  "date": "2026-09-01",
+  "description": "Explore the enterprise architecture of Banking On AI: real-time streaming ingestion, federated machine learning, explainable model governance, and sovereign VPC deployments.",
+  "keywords": "banking AI platform, financial machine learning architecture, explainable AI, graph neural networks banking, sovereign AI",
+  "language": "en-GB",
+  "layout": "page",
+  "name": "Banking On AI",
+  "nav_platform": true,
+  "permalink": "https://bankingonai.co/platform/index.html",
+  "reading_time": 1,
+  "short_name": "bankingonai",
+  "title": "Platform Architecture & Engineering | Banking On AI",
+  "word_count": 166
+}

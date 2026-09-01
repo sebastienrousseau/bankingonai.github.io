@@ -64,4 +64,14 @@ for target in ["public", "docs"]:
             with open(fpath, "w", encoding="utf-8") as f:
                 f.write(html)
 
-print("Post-build optimization completed with synchronized manifest and clean links.")
+# 3. Sync static assets (favicon, images, islands)
+for target in ["public", "docs"]:
+    for asset in ["favicon.ico", "images", "islands"]:
+        src_path = os.path.join(repo_dir, asset)
+        dst_path = os.path.join(repo_dir, target, asset)
+        if os.path.isfile(src_path):
+            shutil.copyfile(src_path, dst_path)
+        elif os.path.isdir(src_path):
+            shutil.copytree(src_path, dst_path, dirs_exist_ok=True)
+
+print("Post-build optimization completed with synchronized manifest, assets, and clean links.")

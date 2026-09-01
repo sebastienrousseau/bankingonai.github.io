@@ -1,34 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Banking On AI: A Modern Approach to Post-Quantum Cryptography</title>
-    <link>https://bankingonai.co/</link>
+    <title>The Future of Banking and Finance | Banking On AI</title>
+    <link>https://bankingonai.co/index.html</link>
     <description>Discover how AI is transforming the banking sector with improved customer service, fraud detection, and streamlined operations for a digital age.</description>
     <atom:link href="http://127.0.0.1:8000/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
     <item>
+      <title>About Mission & Values | Banking On AI</title>
+      <link>http://127.0.0.1:8000/about/</link>
+      <description>Discover the mission behind Banking On AI: advancing safe, robust, and explainable artificial intelligence for global financial systems.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/about/</guid>
+      <pubDate></pubDate>
+      <author>The Banking On AI Team</author>
+      <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
       <title>Accessibility Statement | Banking On AI</title>
       <link>http://127.0.0.1:8000/accessibility/</link>
-      <description>Accessibility commitment and conformance standards for Banking On AI, adhering to WCAG 2.2 Level AAA standards.</description>
+      <description>Accessibility conformance standards for Banking On AI, adhering to WCAG 2.2 Level AAA standards.</description>
       <guid isPermaLink="true">http://127.0.0.1:8000/accessibility/</guid>
       <pubDate></pubDate>
       <author>The Banking On AI Team</author>
       <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>Check your connection and try again.</title>
-      <link>http://127.0.0.1:8000/offline/</link>
-      <description>I apologise for the inconvenience. To continue, please connect to a Wi-Fi network or enable cellular data</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/offline/</guid>
+      <title>Advisory & Engagement Tiers | Banking On AI</title>
+      <link>http://127.0.0.1:8000/pricing/</link>
+      <description>Engagement options for financial institutions, from open research access to enterprise architectural advisory and model risk validation.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/pricing/</guid>
       <pubDate></pubDate>
       <author>The Banking On AI Team</author>
       <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>Easily search through the most commonly-tagged content on this website</title>
-      <link>http://127.0.0.1:8000/tags/</link>
-      <description>Delve deeper into this website by exploring topics and tags, and get to the subjects that matter most to you.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/tags/</guid>
+      <title>Banking Solutions by Sector | Banking On AI</title>
+      <link>http://127.0.0.1:8000/solutions/</link>
+      <description>AI solutions tailored for Retail Banking, Commercial Lending, Corporate Treasury, Capital Markets, and Regulatory Compliance.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/solutions/</guid>
       <pubDate></pubDate>
       <author>The Banking On AI Team</author>
       <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>
@@ -36,7 +45,7 @@
     <item>
       <title>Frequently Asked Questions | Banking On AI</title>
       <link>http://127.0.0.1:8000/faqs/</link>
-      <description>Frequently asked questions regarding AI adoption, regulatory compliance, risk governance, and security in banking.</description>
+      <description>Answers to common questions regarding AI compliance, model risk governance, data privacy, and implementation in banking.</description>
       <guid isPermaLink="true">http://127.0.0.1:8000/faqs/</guid>
       <pubDate></pubDate>
       <author>The Banking On AI Team</author>
@@ -45,71 +54,62 @@
     <item>
       <title>Get in Touch | Banking On AI</title>
       <link>http://127.0.0.1:8000/contact/</link>
-      <description>Contact the Banking On AI team for technical advisory, speaking engagements, research collaborations, and enterprise AI inquiries.</description>
+      <description>Contact the Banking On AI team for technical advisory, speaking engagements, research collaborations, and enterprise inquiries.</description>
       <guid isPermaLink="true">http://127.0.0.1:8000/contact/</guid>
       <pubDate></pubDate>
       <author>The Banking On AI Team</author>
       <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>Key Features & Capabilities | Banking On AI</title>
-      <link>http://127.0.0.1:8000/features/</link>
-      <description>Explore the core artificial intelligence capabilities transforming banking: fraud detection, predictive analytics, algorithmic risk management, and intelligent automation.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/features/</guid>
-      <pubDate></pubDate>
-      <author>The Banking On AI Team</author>
-      <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Learn how to use the Next-Level Static Site Generator</title>
+      <title>Made with Static Site Generator (SSG) | Banking On AI</title>
       <link>http://127.0.0.1:8000/made-with-ssg/</link>
-      <description>Static Site Generator (SSG) delivers blazing speed, zero tracking, and pristine Apple-grade typography and accessibility out of the box.</description>
+      <description>Learn how Banking On AI is built with Static Site Generator (SSG) for high performance, zero external requests, and WCAG 2.2 AAA accessibility.</description>
       <guid isPermaLink="true">http://127.0.0.1:8000/made-with-ssg/</guid>
       <pubDate></pubDate>
       <author>The Banking On AI Team</author>
       <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>Revolutionising Finance with Artificial Intelligence</title>
-      <link>http://127.0.0.1:8000/about/</link>
-      <description>Discover how Banking On AI is transforming the financial sector with cutting-edge AI technologies for improved efficiency, customer service, and risk management.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/about/</guid>
-      <pubDate></pubDate>
-      <author>The Banking On AI Team</author>
-      <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>
-    </item>
-    <item>
-      <title>Sorry we can't find that page.</title>
+      <title>Page Not Found | Banking On AI</title>
       <link>http://127.0.0.1:8000/404/</link>
-      <description>It looks like the web page you are attempting to access has either been removed, renamed, or is currently unavailable.</description>
+      <description>The page you are looking for does not exist or has been moved.</description>
       <guid isPermaLink="true">http://127.0.0.1:8000/404/</guid>
       <pubDate></pubDate>
       <author>The Banking On AI Team</author>
       <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>Thank you for getting in touch!</title>
-      <link>http://127.0.0.1:8000/thanks/</link>
-      <description>We just received your message and appreciate your interest and query. We are working on your request and will get in touch as soon as possible.</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/thanks/</guid>
+      <title>Platform Architecture & Engineering | Banking On AI</title>
+      <link>http://127.0.0.1:8000/platform/</link>
+      <description>Explore the enterprise architecture of Banking On AI: real-time streaming ingestion, federated machine learning, explainable model governance, and sovereign VPC deployments.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/platform/</guid>
       <pubDate></pubDate>
       <author>The Banking On AI Team</author>
       <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>What You Need to Know Before Using Our Services</title>
+      <title>Privacy Policy | Banking On AI</title>
+      <link>http://127.0.0.1:8000/privacy/</link>
+      <description>Privacy policy and data governance practices for Banking On AI.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/privacy/</guid>
+      <pubDate></pubDate>
+      <author>The Banking On AI Team</author>
+      <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>Terms of Use | Banking On AI</title>
       <link>http://127.0.0.1:8000/terms/</link>
-      <description>By accessing this website, you acknowledge and agree to be bound by these Terms and Conditions of Use and all applicable laws and regulations.</description>
+      <description>Terms of service and usage conditions for Banking On AI.</description>
       <guid isPermaLink="true">http://127.0.0.1:8000/terms/</guid>
       <pubDate></pubDate>
       <author>The Banking On AI Team</author>
       <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>Your privacy is important to us.</title>
-      <link>http://127.0.0.1:8000/privacy/</link>
-      <description>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Website</description>
-      <guid isPermaLink="true">http://127.0.0.1:8000/privacy/</guid>
+      <title>Thank You | Banking On AI</title>
+      <link>http://127.0.0.1:8000/thanks/</link>
+      <description>Thank you for reaching out to Banking On AI.</description>
+      <guid isPermaLink="true">http://127.0.0.1:8000/thanks/</guid>
       <pubDate></pubDate>
       <author>The Banking On AI Team</author>
       <enclosure url="https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg" type="image/jpeg" length="0"/>

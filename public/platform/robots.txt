@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://bankingonai.co/platform/index.html/sitemap.xml

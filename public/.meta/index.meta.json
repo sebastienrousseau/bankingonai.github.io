@@ -1,16 +1,22 @@
 {
   "author": "The Banking On AI Team",
   "banner": "https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg",
-  "banner_alt": "Banking On AI — AI in Banking and Financial Innovation",
+  "banner_alt": "Banking On AI — Artificial Intelligence in Modern Banking & Finance",
+  "cta_primary": "Explore Platform",
+  "cta_secondary": "Talk to us",
   "date": "2026-09-01",
   "description": "Discover how AI is transforming the banking sector with improved customer service, fraud detection, and streamlined operations for a digital age.",
+  "eyebrow": "Next-Generation Financial Intelligence",
+  "headline": "Engineering Trustworthy AI for Global Banking",
   "keywords": "artificial intelligence banking, AI customer experience, fraud detection AI, personalized banking services, predictive analytics banking, AI risk management, digital transformation banking, AI chatbots finance, real-time data analysis banking, AI banking operations",
   "language": "en-GB",
   "layout": "index",
+  "lead": "Artificial intelligence is redefining banking. From sub-millisecond fraud detection and autonomous compliance reporting to hyper-personalized wealth intelligence, explore how AI delivers resilient, regulatory-compliant financial infrastructure.",
   "name": "Banking On AI",
-  "permalink": "https://bankingonai.co/",
-  "reading_time": 2,
+  "nav_home": true,
+  "permalink": "https://bankingonai.co/index.html",
+  "reading_time": 1,
   "short_name": "bankingonai",
-  "title": "Banking On AI: A Modern Approach to Post-Quantum Cryptography",
-  "word_count": 456
+  "title": "The Future of Banking and Finance | Banking On AI",
+  "word_count": 182
 }

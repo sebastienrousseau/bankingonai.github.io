@@ -1,16 +1,16 @@
 {
   "author": "The Banking On AI Team",
   "banner": "https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg",
-  "banner_alt": "Banking On AI — AI in Banking and Financial Innovation",
+  "banner_alt": "Banking On AI — Artificial Intelligence in Modern Banking & Finance",
   "date": "2026-09-01",
-  "description": "It looks like the web page you are attempting to access has either been removed, renamed, or is currently unavailable.",
-  "keywords": "404, page not found, not available, 404 error, 404 page, bad link, broken link, page does not exist, page not found, page removed",
+  "description": "The page you are looking for does not exist or has been moved.",
+  "keywords": "404, not found, banking on ai",
   "language": "en-GB",
-  "layout": "page",
+  "layout": "404",
   "name": "Banking On AI",
-  "permalink": "https://bankingonai.co/404/index.html",
+  "permalink": "https://bankingonai.co/404.html",
   "reading_time": 1,
   "short_name": "bankingonai",
-  "title": "Sorry we can't find that page.",
-  "word_count": 78
+  "title": "Page Not Found | Banking On AI",
+  "word_count": 20
 }

@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "description": "Explore the enterprise architecture of Banking On AI: real-time streaming ingestion, federated machine learning, explain",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any maskable",
+      "sizes": "512x512",
+      "src": "",
+      "type": "image/svg+xml"
+    }
+  ],
+  "name": "Banking On AI",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "bankingonai",
+  "start_url": ".",
+  "theme_color": null
+}

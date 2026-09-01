@@ -1,0 +1,19 @@
+{
+  "background_color": "#ffffff",
+  "description": "AI solutions tailored for Retail Banking, Commercial Lending, Corporate Treasury, Capital Markets, and Regulatory Compli",
+  "display": "standalone",
+  "icons": [
+    {
+      "purpose": "any maskable",
+      "sizes": "512x512",
+      "src": "",
+      "type": "image/svg+xml"
+    }
+  ],
+  "name": "Banking On AI",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "short_name": "bankingonai",
+  "start_url": ".",
+  "theme_color": null
+}
