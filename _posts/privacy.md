@@ -1,103 +1,16 @@
 ---
-
-# Front Matter (YAML)
-
-author: "The Banking On AI Team"
-banner_alt: "A blurry image of a ball of light in the dark"
-banner_height: "100vh"
-banner_width: "100vw"
-banner: "https://kura.pro/stock/images/banners/daniele-franchi-Vl6YuVBLEys.webp"
-cdn: "https://kura.pro"
-changefreq: "weekly"
-charset: "UTF-8"
-cname: ""
-copyright: "© 2024 Banking On AI. All rights reserved."
-date: "Mar 03, 2024"
-description: "This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Website"
-format-detection: "telephone=no"
-form-id: ""
-hreflang: "en"
-icon: "https://kura.pro/bankingonai/images/favicon.ico"
-id: "https://bankingonai.co/privacy/index.html"
-image_alt: "Image of Banking On AI"
-image_height: "100vh"
-image_width: "100vw"
-image: "https://kura.pro/bankingonai/images/logos/bankingonai.webp"
-keywords: "Privacy Statement, personal data protection, no cookies policy, no personal information collection, use of Google Analytics, use of Microsoft Clarity, user behaviour analytics, website traffic monitoring, user data rights, privacy policy updates."
-language: "en-GB"
-layout: "link"
-locale: "en_GB"
-logo_alt: "Logo of Banking On AI"
-logo_height: "44"
-logo_width: "44"
-logo: "https://kura.pro/bankingonai/images/logos/bankingonai.webp"
-menu: "active"
-measurementID: "G-6BQMFZ772M"
-name: "Privacy Policy"
-permalink: "https://bankingonai.co/privacy/index.html"
-rating: "general"
-referrer: "no-referrer"
-revisit-after: "7 days"
-robots: "index, follow"
+name: "Banking On AI"
 short_name: "bankingonai"
-subtitle: "Your privacy is important to us."
-tags: "privacy, personal data, tracking tools, Google Analytics, Microsoft Clarity, user behaviour analytics, mouse movements, clicks, scrolls, rights, contact"
-theme-color: "35, 87, 63"
-title: "Banking On AI Privacy: How We Use Your Data"
-url: "https://bankingonai.co/privacy/index.html"
-viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
-
-# RSS - The RSS feed front matter (YAML).
-atom_link: "https://bankingonai.co/privacy/rss.xml"
-category: "Technology"
-docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin 🦀 (version 0.0.20)"
-item_description: RSS feed for the site
-item_guid: "https://bankingonai.co/privacy/rss.xml"
-item_link: "https://bankingonai.co/privacy/rss.xml"
-item_pub_date: "Sun, 03 Mar 2024 03:03:03 +0100"
-item_title: "Banking On AI Privacy: How We Use Your Data"
-last_build_date: "Sun, 03 Mar 2024 03:03:03 +0100"
-managing_editor: "contact@bankingonai.co"
-pub_date: "Sun, 03 Mar 2024 03:03:03 +0100"
-ttl: "60"
-type: "website"
-webmaster: "contact@bankingonai.co"
-
-# Apple - The Apple front matter (YAML).
-apple_mobile_web_app_orientations: "portrait"
-apple_touch_icon_sizes: "192x192"
-apple-mobile-web-app-capable: "yes"
-apple-mobile-web-app-status-bar-inset: "black"
-apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "Banking On AI Privacy: How We Use Your Data"
-apple-touch-fullscreen: "yes"
-
-# MS Application - The MS Application front matter (YAML).
-
-msapplication-navbutton-color: "35, 87, 63"
-
-# Twitter Card - The Twitter Card front matter (YAML).
-
-twitter_card: "summary"
-twitter_creator: "wwdseb"
-twitter_description: "This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Website"
-twitter_image: "https://kura.pro/bankingonai/images/logos/bankingonai.webp"
-twitter_image_alt: "Image of Banking On AI"
-twitter_site: "wwdseb"
-twitter_title: "Banking On AI Privacy: How We Use Your Data"
-twitter_url: "https://bankingonai.co/privacy/index.html"
-
-# Humans.txt - The Humans.txt front matter (YAML).
-author_website: "https://bankingonai.co/privacy/index.html"
-author_twitter: "@BankingOnQT"
-author_location: "London, UK"
-thanks: "Thanks for reading!"
-site_last_updated: "2023-12-18"
-site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
-site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Shokunin Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
-site_software: "Shokunin, Rust"
-
+title: "Your privacy is important to us."
+description: "This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Website"
+keywords: "Privacy Statement, personal data protection, no cookies policy, no personal information collection, use of Google Analytics, use of Microsoft Clarity, user behaviour analytics, website traffic monitoring, user data rights, privacy policy updates."
+author: "The Banking On AI Team"
+date: "2026-09-01"
+language: "en-GB"
+layout: "page"
+permalink: "https://bankingonai.co/privacy/index.html"
+banner: "https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg"
+banner_alt: "Banking On AI — AI in Banking and Financial Innovation"
 ---
 
 ## Information Collection and Use
@@ -129,4 +42,4 @@ We advise you to review this Privacy Policy periodically for any changes. Change
 ## Contact Us
 
 If you have any questions about this Privacy Policy, please
-[contact us](/contact/index.html).
+[contact our support team](mailto:contact@bankingonai.com).

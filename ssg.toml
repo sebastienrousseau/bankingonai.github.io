@@ -1,0 +1,20 @@
+# Generated site-level configuration for bankingonai.github.io
+site_name = "Banking on AI"
+site_title = "Banking on AI | Navigating the Future of Financial Intelligence"
+site_description = "In-depth insights, regulatory architectures, and technical publications on AI deployment in modern banking."
+base_url = "https://bankingonai.com"
+language = "en-GB"
+
+content_dir = "_posts"
+template_dir = "_layouts"
+output_dir = "docs"
+
+[agents]
+agents_txt = true
+ai_plugin = true
+
+[agents.mcp]
+enabled = true
+
+[edge_headers]
+targets = ["netlify", "cloudflare", "vercel"]
