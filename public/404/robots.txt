@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://bankingonai.co/404/index.html/sitemap.xml
+Sitemap: https://bankingonai.co/404.html/sitemap.xml

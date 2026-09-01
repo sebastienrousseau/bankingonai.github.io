@@ -1,30 +1,25 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
-title: "Learn how to use the Next-Level Static Site Generator"
-description: "Static Site Generator (SSG) delivers blazing speed, zero tracking, and pristine Apple-grade typography and accessibility out of the box."
-keywords: "static site generator, website builder, SEO optimisation, accessibility, Static Site Generator (SSG), easy to use, fast, secure, reliable, free"
+title: "Made with Static Site Generator (SSG) | Banking On AI"
+description: "Learn how Banking On AI is built with Static Site Generator (SSG) for high performance, zero external requests, and WCAG 2.2 AAA accessibility."
+keywords: "made with ssg, static site generator, rust ssg, kinetic theme"
 author: "The Banking On AI Team"
 date: "2026-09-01"
 language: "en-GB"
 layout: "page"
 permalink: "https://bankingonai.co/made-with-ssg/index.html"
 banner: "https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg"
-banner_alt: "Banking On AI — AI in Banking and Financial Innovation"
+banner_alt: "Banking On AI — Artificial Intelligence in Modern Banking & Finance"
 ---
 
-[![Banner][01].class=\"w-50 p-3 me-3 img-thumbnail float-end\"][00]
+# Built with Static Site Generator (SSG) & Kinetic Theme
 
-## Embrace Static Site Generator (SSG) for Effortless Website Creation
+Banking On AI is compiled with [Static Site Generator (SSG)](https://github.com/sebastienrousseau/static-site-generator) using the official **Kinetic** marketing theme.
 
-Crafting a website doesn't have to be a complex, expensive, or time-consuming endeavour. It should be swift, secure, and reliable, catering to your specific requirements. Static Site Generator (SSG) seamlessly fulfils these criteria, offering a free, feature-rich solution for building static websites.
+## Architecture Highlights
 
-## Unleash the Power of Static Site Generator (SSG)
-
-Static Site Generator's intuitive interface empowers both novices and seasoned developers alike. With Static Site Generator (SSG), you can create a visually stunning and functionally sound website in minutes, without writing a single line of code.
-
-## Experience the Static Site Generator (SSG) Difference
-
-[Embark on your website journey today and witness the transformative power of Static Site Generator (SSG)! ⧉][00]
-
-[00]: https://static-site-generator.com/ "Static Site Generator (SSG): Fast Rust-Based Static Site Generator"
+- **Rust High Performance**: Native binary compilation rendering multi-page sites with sub-second build times.
+- **Zero Third-Party CDNs**: All assets and stylesheets are bundled and served same-origin with strict Content Security Policy.
+- **WCAG 2.2 AAA Gated**: Every color token and layout component passes automated accessibility contrast and navigation audits.
+- **CycloneDX SBOM & Security**: Automated Software Bill of Materials (SBOM) generation and subresource integrity hashing.

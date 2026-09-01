@@ -1,16 +1,19 @@
 {
   "author": "The Banking On AI Team",
   "banner": "https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg",
-  "banner_alt": "Banking On AI — AI in Banking and Financial Innovation",
+  "banner_alt": "Banking On AI — Artificial Intelligence in Modern Banking & Finance",
   "date": "2026-09-01",
-  "description": "Contact the Banking On AI team for technical advisory, speaking engagements, research collaborations, and enterprise AI inquiries.",
-  "keywords": "Contact Banking On AI, financial AI advisory, banking AI consulting, fintech speaking",
+  "description": "Contact the Banking On AI team for technical advisory, speaking engagements, research collaborations, and enterprise inquiries.",
+  "form_action": "https://formspree.io/f/contact",
+  "form_origin": "https://formspree.io",
+  "keywords": "contact banking on ai, financial AI advisory, banking AI consulting",
   "language": "en-GB",
-  "layout": "page",
+  "layout": "contact",
   "name": "Banking On AI",
+  "nav_contact": true,
   "permalink": "https://bankingonai.co/contact/index.html",
   "reading_time": 1,
   "short_name": "bankingonai",
   "title": "Get in Touch | Banking On AI",
-  "word_count": 190
+  "word_count": 161
 }

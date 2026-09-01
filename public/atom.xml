@@ -6,21 +6,21 @@
   <id>http://127.0.0.1:8000</id>
   <updated></updated>
   <entry>
-    <title>Sorry we can&apos;t find that page.</title>
+    <title>Page Not Found | Banking On AI</title>
     <link href="http://127.0.0.1:8000/404/"/>
     <id>http://127.0.0.1:8000/404/</id>
     <updated></updated>
     <published></published>
-    <summary>It looks like the web page you are attempting to access has either been removed, renamed, or is currently unavailable.</summary>
+    <summary>The page you are looking for does not exist or has been moved.</summary>
     <author><name>The Banking On AI Team</name></author>
   </entry>
   <entry>
-    <title>Revolutionising Finance with Artificial Intelligence</title>
+    <title>About Mission &amp; Values | Banking On AI</title>
     <link href="http://127.0.0.1:8000/about/"/>
     <id>http://127.0.0.1:8000/about/</id>
     <updated></updated>
     <published></published>
-    <summary>Discover how Banking On AI is transforming the financial sector with cutting-edge AI technologies for improved efficiency, customer service, and risk management.</summary>
+    <summary>Discover the mission behind Banking On AI: advancing safe, robust, and explainable artificial intelligence for global financial systems.</summary>
     <author><name>The Banking On AI Team</name></author>
   </entry>
   <entry>
@@ -29,7 +29,7 @@
     <id>http://127.0.0.1:8000/accessibility/</id>
     <updated></updated>
     <published></published>
-    <summary>Accessibility commitment and conformance standards for Banking On AI, adhering to WCAG 2.2 Level AAA standards.</summary>
+    <summary>Accessibility conformance standards for Banking On AI, adhering to WCAG 2.2 Level AAA standards.</summary>
     <author><name>The Banking On AI Team</name></author>
   </entry>
   <entry>
@@ -38,7 +38,7 @@
     <id>http://127.0.0.1:8000/contact/</id>
     <updated></updated>
     <published></published>
-    <summary>Contact the Banking On AI team for technical advisory, speaking engagements, research collaborations, and enterprise AI inquiries.</summary>
+    <summary>Contact the Banking On AI team for technical advisory, speaking engagements, research collaborations, and enterprise inquiries.</summary>
     <author><name>The Banking On AI Team</name></author>
   </entry>
   <entry>
@@ -47,70 +47,70 @@
     <id>http://127.0.0.1:8000/faqs/</id>
     <updated></updated>
     <published></published>
-    <summary>Frequently asked questions regarding AI adoption, regulatory compliance, risk governance, and security in banking.</summary>
+    <summary>Answers to common questions regarding AI compliance, model risk governance, data privacy, and implementation in banking.</summary>
     <author><name>The Banking On AI Team</name></author>
   </entry>
   <entry>
-    <title>Key Features &amp; Capabilities | Banking On AI</title>
-    <link href="http://127.0.0.1:8000/features/"/>
-    <id>http://127.0.0.1:8000/features/</id>
-    <updated></updated>
-    <published></published>
-    <summary>Explore the core artificial intelligence capabilities transforming banking: fraud detection, predictive analytics, algorithmic risk management, and intelligent automation.</summary>
-    <author><name>The Banking On AI Team</name></author>
-  </entry>
-  <entry>
-    <title>Learn how to use the Next-Level Static Site Generator</title>
+    <title>Made with Static Site Generator (SSG) | Banking On AI</title>
     <link href="http://127.0.0.1:8000/made-with-ssg/"/>
     <id>http://127.0.0.1:8000/made-with-ssg/</id>
     <updated></updated>
     <published></published>
-    <summary>Static Site Generator (SSG) delivers blazing speed, zero tracking, and pristine Apple-grade typography and accessibility out of the box.</summary>
+    <summary>Learn how Banking On AI is built with Static Site Generator (SSG) for high performance, zero external requests, and WCAG 2.2 AAA accessibility.</summary>
     <author><name>The Banking On AI Team</name></author>
   </entry>
   <entry>
-    <title>Check your connection and try again.</title>
-    <link href="http://127.0.0.1:8000/offline/"/>
-    <id>http://127.0.0.1:8000/offline/</id>
+    <title>Platform Architecture &amp; Engineering | Banking On AI</title>
+    <link href="http://127.0.0.1:8000/platform/"/>
+    <id>http://127.0.0.1:8000/platform/</id>
     <updated></updated>
     <published></published>
-    <summary>I apologise for the inconvenience. To continue, please connect to a Wi-Fi network or enable cellular data</summary>
+    <summary>Explore the enterprise architecture of Banking On AI: real-time streaming ingestion, federated machine learning, explainable model governance, and sovereign VPC deployments.</summary>
     <author><name>The Banking On AI Team</name></author>
   </entry>
   <entry>
-    <title>Your privacy is important to us.</title>
+    <title>Advisory &amp; Engagement Tiers | Banking On AI</title>
+    <link href="http://127.0.0.1:8000/pricing/"/>
+    <id>http://127.0.0.1:8000/pricing/</id>
+    <updated></updated>
+    <published></published>
+    <summary>Engagement options for financial institutions, from open research access to enterprise architectural advisory and model risk validation.</summary>
+    <author><name>The Banking On AI Team</name></author>
+  </entry>
+  <entry>
+    <title>Privacy Policy | Banking On AI</title>
     <link href="http://127.0.0.1:8000/privacy/"/>
     <id>http://127.0.0.1:8000/privacy/</id>
     <updated></updated>
     <published></published>
-    <summary>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Website</summary>
+    <summary>Privacy policy and data governance practices for Banking On AI.</summary>
     <author><name>The Banking On AI Team</name></author>
   </entry>
   <entry>
-    <title>Easily search through the most commonly-tagged content on this website</title>
-    <link href="http://127.0.0.1:8000/tags/"/>
-    <id>http://127.0.0.1:8000/tags/</id>
+    <title>Banking Solutions by Sector | Banking On AI</title>
+    <link href="http://127.0.0.1:8000/solutions/"/>
+    <id>http://127.0.0.1:8000/solutions/</id>
     <updated></updated>
     <published></published>
-    <summary>Delve deeper into this website by exploring topics and tags, and get to the subjects that matter most to you.</summary>
+    <summary>AI solutions tailored for Retail Banking, Commercial Lending, Corporate Treasury, Capital Markets, and Regulatory Compliance.</summary>
     <author><name>The Banking On AI Team</name></author>
   </entry>
   <entry>
-    <title>What You Need to Know Before Using Our Services</title>
+    <title>Terms of Use | Banking On AI</title>
     <link href="http://127.0.0.1:8000/terms/"/>
     <id>http://127.0.0.1:8000/terms/</id>
     <updated></updated>
     <published></published>
-    <summary>By accessing this website, you acknowledge and agree to be bound by these Terms and Conditions of Use and all applicable laws and regulations.</summary>
+    <summary>Terms of service and usage conditions for Banking On AI.</summary>
     <author><name>The Banking On AI Team</name></author>
   </entry>
   <entry>
-    <title>Thank you for getting in touch!</title>
+    <title>Thank You | Banking On AI</title>
     <link href="http://127.0.0.1:8000/thanks/"/>
     <id>http://127.0.0.1:8000/thanks/</id>
     <updated></updated>
     <published></published>
-    <summary>We just received your message and appreciate your interest and query. We are working on your request and will get in touch as soon as possible.</summary>
+    <summary>Thank you for reaching out to Banking On AI.</summary>
     <author><name>The Banking On AI Team</name></author>
   </entry>
 </feed>
