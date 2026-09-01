@@ -1,6 +1,7 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
+logo: "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg"
 title: "Banking Solutions by Sector | Banking On AI"
 description: "AI solutions tailored for Retail Banking, Commercial Lending, Corporate Treasury, Capital Markets, and Regulatory Compliance."
 keywords: "retail banking AI, commercial lending AI, corporate treasury AI, capital markets AI, compliance automation"

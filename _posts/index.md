@@ -1,6 +1,7 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
+logo: "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg"
 title: "The Future of Banking and Finance | Banking On AI"
 description: "Discover how AI is transforming the banking sector with improved customer service, fraud detection, and streamlined operations for a digital age."
 keywords: "artificial intelligence banking, AI customer experience, fraud detection AI, personalized banking services, predictive analytics banking, AI risk management, digital transformation banking, AI chatbots finance, real-time data analysis banking, AI banking operations"

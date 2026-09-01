@@ -1,6 +1,7 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
+logo: "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg"
 title: "Accessibility Statement | Banking On AI"
 description: "Accessibility conformance standards for Banking On AI, adhering to WCAG 2.2 Level AAA standards."
 keywords: "accessibility statement, WCAG 2.2 AAA, banking on ai accessibility"

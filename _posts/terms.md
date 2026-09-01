@@ -1,6 +1,7 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
+logo: "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg"
 title: "Terms of Use | Banking On AI"
 description: "Terms of service and usage conditions for Banking On AI."
 keywords: "terms of use, terms of service, banking on ai"

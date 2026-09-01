@@ -1,6 +1,7 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
+logo: "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg"
 title: "About Mission & Values | Banking On AI"
 description: "Discover the mission behind Banking On AI: advancing safe, robust, and explainable artificial intelligence for global financial systems."
 keywords: "about banking on ai, AI ethics finance, financial engineering, explainable AI research"
