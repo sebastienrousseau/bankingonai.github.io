@@ -1,0 +1,18 @@
+{
+  "api": {
+    "is_user_authenticated": false,
+    "type": "openapi",
+    "url": "https://bankingonai.com/openapi.yaml"
+  },
+  "auth": {
+    "type": "none"
+  },
+  "contact_email": "support@bankingonai.com",
+  "description_for_human": "In-depth insights, regulatory architectures, and technical publications on AI deployment in modern banking.",
+  "description_for_model": "In-depth insights, regulatory architectures, and technical publications on AI deployment in modern banking.",
+  "legal_info_url": "https://bankingonai.com/legal",
+  "logo_url": "https://bankingonai.com/favicon.ico",
+  "name_for_human": "Banking on AI | Navigating the Future of Financial Intelligence",
+  "name_for_model": "banking_on_ai",
+  "schema_version": "v1"
+}

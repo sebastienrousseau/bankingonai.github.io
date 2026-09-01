@@ -1,106 +1,16 @@
 ---
-
-# Front Matter (YAML)
-
-author: "The Banking On AI Team"
-banner_alt: "A blurry image of a ball of light in the dark"
-banner_height: "100vh"
-banner_width: "100vw"
-banner: "https://kura.pro/stock/images/banners/daniele-franchi-Vl6YuVBLEys.webp"
-cdn: "https://kura.pro"
-changefreq: "weekly"
-charset: "UTF-8"
-cname: ""
-copyright: "© 2024 Banking On AI. All rights reserved."
-date: "Mar 03, 2024"
-description: "By accessing this website, you acknowledge and agree to be bound by these Terms and Conditions of Use and all applicable laws and regulations."
-format-detection: "telephone=no"
-form-id: ""
-hreflang: "en"
-icon: "https://kura.pro/bankingonai/images/favicon.ico"
-id: "https://bankingonai.co/terms/index.html"
-image_alt: "Image of Banking On AI"
-image_height: "100vh"
-image_width: "100vw"
-image: "https://kura.pro/bankingonai/images/logos/bankingonai.webp"
-keywords: "Terms of Use,Website Rules, Intellectual Property Rights, Third-party Links, User Responsibilities, Limitation of Liability, Website Use Agreement, Governing Laws for Online Use, Website Terms Changes, Contact"
-language: "en-GB"
-layout: "link"
-locale: "en_GB"
-logo_alt: "Logo of Banking On AI"
-logo_height: "44"
-logo_width: "44"
-logo: "https://kura.pro/bankingonai/images/logos/bankingonai.webp"
-menu: "active"
-measurementID: "G-6BQMFZ772M"
-name: "Terms"
-permalink: "https://bankingonai.co/terms/index.html"
-rating: "general"
-referrer: "no-referrer"
-revisit-after: "7 days"
-robots: "index, follow"
+name: "Banking On AI"
 short_name: "bankingonai"
-subtitle: "What You Need to Know Before Using Our Services"
-tags: "agreement, copyright, intellectual property, liability, limitation, links, privacy, terms, trademark, use, website"
-theme-color: "35, 87, 63"
-title: "Terms and Conditions of Use"
-url: "https://bankingonai.co/terms/index.html"
-viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
-
-# RSS - The RSS feed front matter (YAML).
-
-atom_link: "https://bankingonai.co/terms/rss.xml"
-category: "Technology"
-docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin 🦀 (version 0.0.20)"
-item_description: "By accessing this website, you acknowledge and agree to be bound by these Terms and Conditions of Use and all applicable laws and regulations."
-item_guid: "https://bankingonai.co/terms/rss.xml"
-item_link: "https://bankingonai.co/terms/rss.xml"
-item_pub_date: "Sun, 03 Mar 2024 03:03:03 +0100"
-item_title: "Terms and Conditions of Use"
-last_build_date: "Sun, 03 Mar 2024 03:03:03 +0100"
-managing_editor: "contact@bankingonai.co"
-pub_date: "Sun, 03 Mar 2024 03:03:03 +0100"
-ttl: "60"
-type: "website"
-webmaster: "contact@bankingonai.co"
-
-# Apple - The Apple front matter (YAML).
-
-apple_mobile_web_app_orientations: "portrait"
-apple_touch_icon_sizes: "192x192"
-apple-mobile-web-app-capable: "yes"
-apple-mobile-web-app-status-bar-inset: "black"
-apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "Terms and Conditions of Use"
-apple-touch-fullscreen: "yes"
-
-# MS Application - The MS Application front matter (YAML).
-
-msapplication-navbutton-color: "35, 87, 63"
-
-# Twitter Card - The Twitter Card front matter (YAML).
-
-twitter_card: "summary"
-twitter_creator: "wwdseb"
-twitter_description: "By accessing this website, you acknowledge and agree to be bound by these Terms and Conditions of Use and all applicable laws and regulations."
-twitter_image: "https://kura.pro/bankingonai/images/logos/bankingonai.webp"
-twitter_image_alt: "Image of Banking On AI"
-twitter_site: "wwdseb"
-twitter_title: "Terms and Conditions of Use"
-twitter_url: "https://bankingonai.co/terms/index.html"
-
-# Humans.txt - The Humans.txt front matter (YAML).
-
-author_website: "https://bankingonai.co/terms/index.html"
-author_twitter: "@BankingOnQT"
-author_location: "London, UK"
-thanks: "Thanks for reading!"
-site_last_updated: "2023-12-18"
-site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
-site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Shokunin Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
-site_software: "Shokunin, Rust"
-
+title: "What You Need to Know Before Using Our Services"
+description: "By accessing this website, you acknowledge and agree to be bound by these Terms and Conditions of Use and all applicable laws and regulations."
+keywords: "Terms of Use,Website Rules, Intellectual Property Rights, Third-party Links, User Responsibilities, Limitation of Liability, Website Use Agreement, Governing Laws for Online Use, Website Terms Changes, Contact"
+author: "The Banking On AI Team"
+date: "2026-09-01"
+language: "en-GB"
+layout: "page"
+permalink: "https://bankingonai.co/terms/index.html"
+banner: "https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg"
+banner_alt: "Banking On AI — AI in Banking and Financial Innovation"
 ---
 
 ## Agreement to Terms of Use
@@ -171,4 +81,4 @@ revised terms.
 ## Contact Us
 
 If you have any questions about these Terms, please
-[contact us](/contact/index.html)
+[contact our support team](mailto:contact@bankingonai.com)

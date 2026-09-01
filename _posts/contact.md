@@ -1,105 +1,56 @@
 ---
-
-# Front Matter (YAML)
-
-author: "The Banking On AI Team"
-banner_alt: "Man using a laptop"
-banner_height: "100vh"
-banner_width: "100vw"
-banner: "https://kura.pro/stock/images/banners/rawpixel-com-369782.webp"
-cdn: "https://kura.pro"
-changefreq: "weekly"
-charset: "utf-8"
-cname: ""
-copyright: "© 2024 Banking On AI. All rights reserved."
-date: "Mar 03, 2024"
-description: "Contact us today to learn more about how Banking On AI is your go-to solution for unlocking your financial potential."
-format-detection: "telephone=no"
-form-id: "mrgwokzz"
-hreflang: "en"
-icon: "https://kura.pro/bankingonai/images/favicon.ico"
-id: "https://bankingonai.co/contact/index.html"
-image_alt: "Image of Banking On AI"
-image_height: "100vh"
-image_width: "100vw"
-image: "https://kura.pro/bankingonai/images/logos/bankingonai.webp"
-keywords: "Contact us, contact, contact us form"
-language: "en-GB"
-layout: "contact"
-locale: "en_GB"
-logo_alt: "Logo of Banking On AI"
-logo_height: "44"
-logo_width: "44"
-logo: "https://kura.pro/bankingonai/images/logos/bankingonai.webp"
-menu: "active"
-measurementID: "G-6BQMFZ772M"
-name: "Contact"
-permalink: "https://bankingonai.co/contact/index.html"
-rating: "general"
-referrer: "no-referrer"
-revisit-after: "7 days"
-robots: "index, follow"
+name: "Banking On AI"
 short_name: "bankingonai"
-subtitle: "Want to know more about Banking On AI? Let’s connect!"
-theme-color: "35, 87, 63"
-title: "Banking On AI Contact: Get in Touch"
-url: "https://bankingonai.co/contact/index.html"
-viewport: "width=device-width, initial-scale=1, shrink-to-fit=no"
-
-# RSS - The RSS feed front matter (YAML).
-atom_link: https://bankingonai.co/contact/rss.xml
-category: "Software, Static Site Generator, Rust"
-docs: "https://validator.w3.org/feed/docs/rss2.html"
-generator: "Shokunin 🦀 (version 0.0.20)"
-item_description: "Contact us today to learn more about how Banking On AI is your go-to solution for unlocking your financial potential."
-item_guid: https://bankingonai.co/contact/rss.xml
-item_link: https://bankingonai.co/contact/rss.xml
-item_pub_date: "Sun, 03 Mar 2024 03:03:03 +0100"
-item_title: "Banking On AI Contact: Get in Touch"
-last_build_date: "Sun, 03 Mar 2024 03:03:03 +0100"
-managing_editor: "contact@bankingonai.co"
-pub_date: "Sun, 03 Mar 2024 03:03:03 +0100"
-ttl: "60"
-type: "website"
-webmaster: "contact@bankingonai.co"
-
-# Apple - The Apple front matter (YAML).
-
-apple_mobile_web_app_orientations: "portrait"
-apple_touch_icon_sizes: "192x192"
-apple-mobile-web-app-capable: "yes"
-apple-mobile-web-app-status-bar-inset: "black"
-apple-mobile-web-app-status-bar-style: "black-translucent"
-apple-mobile-web-app-title: "Banking On AI Contact: Get in Touch"
-apple-touch-fullscreen: "yes"
-
-# MS Application - The MS Application front matter (YAML).
-
-msapplication-config: "https://bankingonai.co/browserconfig.xml"
-msapplication-tap-highlight: "no"
-msapplication-TileColor: "35, 87, 63"
-msapplication_tile_image: "https://kura.pro/bankingonai/images/logos/bankingonai.webp"
-
-# Twitter Card - The Twitter Card front matter (YAML).
-
-twitter_card: "summary"
-twitter_creator: "@BankingOnQT"
-twitter_description: "Contact us today to learn more about how Banking On AI is your go-to solution for unlocking your financial potential."
-twitter_image: "https://kura.pro/bankingonai/images/logos/bankingonai.webp"
-twitter_image_alt: "Image of Banking On AI"
-twitter_site: "@BankingOnQT"
-twitter_title: "Banking On AI Contact: Get in Touch"
-twitter_url: "https://bankingonai.co/"
-
-# Humans.txt - The Humans.txt front matter (YAML).
-
-author_website: "https://bankingonai.co/contact/index.html"
-author_twitter: "@BankingOnQT"
-author_location: "London, UK"
-thanks: "Thanks for reading!"
-site_last_updated: "2023-12-18"
-site_standards: "HTML5, CSS3, RSS, Atom, JSON, XML, YAML, Markdown, TOML"
-site_components: "Shokunin SSG, Shokunin CLI, Shokunin Templates, Shokunin Themes, Kaishi SSG, Kaishi CLI, Kaishi Templates, Kaishi Themes"
-site_software: "Shokunin, Rust"
-
+title: "Get in Touch | Banking On AI"
+description: "Contact the Banking On AI team for technical advisory, speaking engagements, research collaborations, and enterprise AI inquiries."
+keywords: "Contact Banking On AI, financial AI advisory, banking AI consulting, fintech speaking"
+author: "The Banking On AI Team"
+date: "2026-09-01"
+language: "en-GB"
+layout: "page"
+permalink: "https://bankingonai.co/contact/index.html"
+banner: "https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg"
+banner_alt: "Banking On AI — AI in Banking and Financial Innovation"
 ---
+
+# Contact & Collaboration
+
+Open to technical advisory conversations, research collaborations, and conference keynote speaking at the intersection of banking architecture, artificial intelligence, and model risk governance.
+
+<div class="row g-4 my-3">
+  <div class="col-md-6">
+    <div class="card-surface h-100">
+      <h2 class="h4 fw-bold text-headline mb-3">Enterprise Advisory</h2>
+      <p class="text-body mb-3">Guiding financial institutions through AI adoption lifecycles, regulatory validation (SR 11-7, EU AI Act), and real-time streaming architectures.</p>
+      <ul class="list-unstyled d-flex flex-column gap-2 text-muted">
+        <li>✦ Model Risk Management &amp; Validation</li>
+        <li>✦ Real-Time Fraud &amp; AML Machine Learning</li>
+        <li>✦ Sovereign LLM &amp; Private Cloud Deployment</li>
+      </ul>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="card-surface h-100">
+      <h2 class="h4 fw-bold text-headline mb-3">Send a Message</h2>
+      <form action="https://formspree.io/f/contact" method="POST" class="d-flex flex-column gap-3">
+        <div>
+          <label for="contact-name" class="form-label fw-semibold">Name <span class="text-danger">*</span></label>
+          <input type="text" id="contact-name" name="name" class="form-control" required placeholder="Your full name" autocomplete="name">
+        </div>
+        <div>
+          <label for="contact-email" class="form-label fw-semibold">Email <span class="text-danger">*</span></label>
+          <input type="email" id="contact-email" name="email" class="form-control" required placeholder="name@institution.com" autocomplete="email">
+        </div>
+        <div>
+          <label for="contact-org" class="form-label fw-semibold">Organisation</label>
+          <input type="text" id="contact-org" name="organisation" class="form-control" placeholder="Institution / Bank name" autocomplete="organization">
+        </div>
+        <div>
+          <label for="contact-message" class="form-label fw-semibold">Message <span class="text-danger">*</span></label>
+          <textarea id="contact-message" name="message" class="form-control" rows="4" required placeholder="How can we collaborate?"></textarea>
+        </div>
+        <button type="submit" class="btn btn-dark w-100 py-2 fw-semibold">Send Message ❯</button>
+      </form>
+    </div>
+  </div>
+</div>

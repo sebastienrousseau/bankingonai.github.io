@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<url>
+  <loc>http://127.0.0.1:8000/404/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>The Banking On AI Team</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Sorry we can't find that page.</news:title>
+    <news:keywords>404, page not found, not available, 404 error, 404 page, bad link, broken link, page does not exist, page not found, page removed</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/about/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>The Banking On AI Team</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Revolutionising Finance with Artificial Intelligence</news:title>
+    <news:keywords>AI in banking, financial technologies, customer engagement, data analysis in banking, AI for risk assessment, banking innovation, ethical AI, financial inclusion, AI banking solutions, sustainable economic growth</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/accessibility/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>The Banking On AI Team</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Accessibility Statement | Banking On AI</news:title>
+    <news:keywords>accessibility, WCAG 2.2 AAA, screen reader, banking on ai accessibility, inclusive finance</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/contact/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>The Banking On AI Team</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Get in Touch | Banking On AI</news:title>
+    <news:keywords>Contact Banking On AI, financial AI advisory, banking AI consulting, fintech speaking</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/faqs/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>The Banking On AI Team</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Frequently Asked Questions | Banking On AI</news:title>
+    <news:keywords>banking AI FAQs, AI regulation finance, model risk management, financial LLM compliance</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/features/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>The Banking On AI Team</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Key Features & Capabilities | Banking On AI</news:title>
+    <news:keywords>AI banking features, fraud detection, predictive analytics, risk management, algorithmic trading, customer intelligence</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/made-with-ssg/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>The Banking On AI Team</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Learn how to use the Next-Level Static Site Generator</news:title>
+    <news:keywords>static site generator, website builder, SEO optimisation, accessibility, Static Site Generator (SSG), easy to use, fast, secure, reliable, free</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/offline/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>The Banking On AI Team</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Check your connection and try again.</news:title>
+    <news:keywords>offline, connection, error, unable to connect</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/privacy/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>The Banking On AI Team</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Your privacy is important to us.</news:title>
+    <news:keywords>Privacy Statement, personal data protection, no cookies policy, no personal information collection, use of Google Analytics, use of Microsoft Clarity, user behaviour analytics, website traffic monitoring, user data rights, privacy policy updates.</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/tags/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>The Banking On AI Team</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Easily search through the most commonly-tagged content on this website</news:title>
+    <news:keywords>explore by tag, explore topics, delve deeper, get to the subjects, matter most, website, website content, website topics, website tags, website search, website navigation</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/terms/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>The Banking On AI Team</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>What You Need to Know Before Using Our Services</news:title>
+    <news:keywords>Terms of Use,Website Rules, Intellectual Property Rights, Third-party Links, User Responsibilities, Limitation of Liability, Website Use Agreement, Governing Laws for Online Use, Website Terms Changes, Contact</news:keywords>
+  </news:news>
+</url>
+<url>
+  <loc>http://127.0.0.1:8000/thanks/</loc>
+  <news:news>
+    <news:publication>
+      <news:name>The Banking On AI Team</news:name>
+      <news:language>en-GB</news:language>
+    </news:publication>
+    <news:publication_date></news:publication_date>
+    <news:title>Thank you for getting in touch!</news:title>
+    <news:keywords>contact us, contact details, contact form, get in touch, help center, reach out, technical support</news:keywords>
+  </news:news>
+</url>
+</urlset>
