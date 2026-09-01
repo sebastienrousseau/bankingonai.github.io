@@ -1,6 +1,7 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
+logo: "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg"
 title: "Get in Touch | Banking On AI"
 description: "Contact the Banking On AI team for technical advisory, speaking engagements, research collaborations, and enterprise inquiries."
 keywords: "contact banking on ai, financial AI advisory, banking AI consulting"

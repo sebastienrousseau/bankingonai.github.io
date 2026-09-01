@@ -1,6 +1,7 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
+logo: "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg"
 title: "Frequently Asked Questions | Banking On AI"
 description: "Authoritative answers to common questions regarding Banking On AI platform architecture, regulatory compliance, and implementation."
 keywords: "frequently asked questions, banking on ai FAQs, financial AI technology"

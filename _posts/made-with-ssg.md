@@ -1,6 +1,7 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
+logo: "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg"
 title: "Made with Static Site Generator (SSG) | Banking On AI"
 description: "Learn how Banking On AI is built with Static Site Generator (SSG) for high performance, zero external requests, and WCAG 2.2 AAA accessibility."
 keywords: "made with ssg, static site generator, rust ssg, kinetic theme"

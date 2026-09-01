@@ -1,6 +1,7 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
+logo: "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg"
 title: "Privacy Policy | Banking On AI"
 description: "Privacy policy and data governance practices for Banking On AI."
 keywords: "privacy policy, data governance, banking on ai privacy"

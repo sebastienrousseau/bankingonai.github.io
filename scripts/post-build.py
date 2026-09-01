@@ -62,6 +62,7 @@ for target in ["public", "docs"]:
             html = html.replace('href="/terms.html"', 'href="/terms/index.html"')
             html = html.replace('href="/made-with-ssg.html"', 'href="/made-with-ssg/index.html"')
 
+            html = html.replace('<img src="" alt="Banking On AI Logo"', '<img src="https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg" alt="Banking On AI Logo"')
             # Strip any legacy bleeding markdown/class artifacts
             html = html.replace('.class=\\"m-10 w-100\\"', '')
             html = html.replace('.class="m-10 w-100"', '')

@@ -1,6 +1,7 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
+logo: "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg"
 title: "Thank You | Banking On AI"
 description: "Thank you for reaching out to Banking On AI."
 keywords: "thank you, message received, banking on ai"

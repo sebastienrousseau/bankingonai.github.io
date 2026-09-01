@@ -1,6 +1,7 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
+logo: "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg"
 title: "Advisory & Engagement Tiers | Banking On AI"
 description: "Engagement options for financial institutions, from open research access to enterprise architectural advisory and model risk validation."
 keywords: "banking AI pricing, financial AI consulting, model risk advisory, enterprise AI tiers"

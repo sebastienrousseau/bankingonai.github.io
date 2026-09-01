@@ -1,6 +1,7 @@
 ---
 name: "Banking On AI"
 short_name: "bankingonai"
+logo: "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg"
 title: "Platform Architecture & Engineering | Banking On AI"
 description: "Explore the enterprise architecture of Banking On AI: real-time streaming ingestion, federated machine learning, explainable model governance, and sovereign VPC deployments."
 keywords: "banking AI platform, financial machine learning architecture, explainable AI, graph neural networks banking, sovereign AI"
