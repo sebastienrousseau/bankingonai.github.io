@@ -1,6 +1,6 @@
 {
   "name": "Banking On AI",
-  "short_name": "bankingonai",
+  "short_name": "Banking On AI",
   "description": "Next-generation artificial intelligence and algorithmic governance for global financial institutions.",
   "start_url": "/index.html",
   "scope": "/",
@@ -11,16 +11,10 @@
   "lang": "en-GB",
   "icons": [
     {
-      "src": "https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg",
-      "sizes": "512x512",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    },
-    {
       "src": "/favicon.ico",
       "sizes": "16x16 32x32 48x48",
       "type": "image/x-icon",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
