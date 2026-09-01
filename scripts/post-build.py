@@ -74,4 +74,12 @@ for target in ["public", "docs"]:
         elif os.path.isdir(src_path):
             shutil.copytree(src_path, dst_path, dirs_exist_ok=True)
 
-print("Post-build optimization completed with synchronized manifest, assets, and clean links.")
+# 4. Write CNAME
+cname_domain = "bankingonai.co"
+for target in ["public", "docs"]:
+    with open(os.path.join(repo_dir, target, "CNAME"), "w", encoding="utf-8") as f:
+        f.write(cname_domain + "\n")
+with open(os.path.join(repo_dir, "CNAME"), "w", encoding="utf-8") as f:
+    f.write(cname_domain + "\n")
+
+print("Post-build optimization completed with synchronized manifest, assets, CNAME, and clean links.")
