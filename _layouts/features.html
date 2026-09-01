@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>{{title}}</title>
   
-  <meta name="author" content="The Banking On AI Team">
+  <meta name="author" content="Banking On AI Team">
   <meta name="description" content="{{description}}">
   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
   <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdn.jsdelivr.net; connect-src 'self' https://formspree.io; img-src 'self' data: https: https://cloudcdn.pro; style-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; font-src 'self'; form-action 'self' https://formspree.io;" />
@@ -41,7 +41,7 @@
     <div class="navbar-container">
       <div class="navbar-header">
         <a class="navbar-brand" href="/index.html" aria-label="Banking On AI Homepage">
-          <img src="https://cloudcdn.pro/bankingonai/v1/logos/bankingonai.svg" alt="Banking On AI Logo" width="32" height="32" class="d-inline-block" />
+          <img src="{{logo}}" alt="Banking On AI Logo" width="32" height="32" class="d-inline-block" />
           <span class="navbar-brand-text">Banking On AI</span>
         </a>
 
@@ -72,10 +72,13 @@
       <!-- Links menu -->
       <div class="navbar-menu" id="navbarMenu">
         <ul class="nav-list">
-          <li class="nav-item"><a class="nav-link" href="/features/index.html">Features</a></li>
-          <li class="nav-item"><a class="nav-link" href="/about/index.html">About</a></li>
-          <li class="nav-item"><a class="nav-link" href="/faqs/index.html">FAQs</a></li>
-          <li class="nav-item nav-item-cta"><a class="btn btn-dark ms-lg-2" href="/contact/index.html">Get in touch</a></li>
+<li class="nav-item"><a class="nav-link" href="/platform/index.html">Platform</a></li>
+<li class="nav-item"><a class="nav-link" href="/solutions/index.html">Solutions</a></li>
+<li class="nav-item"><a class="nav-link" href="/pricing/index.html">Pricing</a></li>
+<li class="nav-item"><a class="nav-link" href="/about/index.html">About</a></li>
+<li class="nav-item"><a class="nav-link" href="/faqs/index.html">FAQs</a></li>
+<li class="nav-item nav-item-cta"><a class="btn btn-dark ms-lg-2" href="/contact/index.html">Get in touch</a></li>
+
         </ul>
       </div>
 
@@ -102,16 +105,10 @@
     </div>
   </nav>
 
+
   <!-- Main Content -->
   <main id="main" class="content-wrapper" aria-label="Main content">
     <header class="page-header text-center mb-4">
-      <nav class="mb-3" aria-label="Breadcrumbs">
-        <ol class="list-inline text-muted fs-6">
-          <li class="list-inline-item"><a href="/index.html" class="text-decoration-none">Home</a></li>
-          <li class="list-inline-item">/</li>
-          <li class="list-inline-item active text-dark fw-semibold" aria-current="page">{{title}}</li>
-        </ol>
-      </nav>
       <h1 class="display-5 fw-bold text-headline mb-3">{{title}}</h1>
       <p class="fs-5 text-muted">{{description}}</p>
     </header>
@@ -121,6 +118,7 @@
         {{content}}
       </div>
     </div>
+
   </main>
 
   <!-- Top Anchor -->
@@ -132,11 +130,20 @@
     <div class="container-xxl">
       <div class="row g-4">
         <div class="col-lg-3 col-md-6">
-          <h2 class="h5 fw-bold mb-3">About</h2>
+          <h2 class="h5 fw-bold mb-3">Platform</h2>
+          <ul class="list-unstyled d-flex flex-column gap-2">
+<li><a href="/platform/index.html">Platform</a></li>
+<li><a href="/solutions/index.html">Solutions</a></li>
+<li><a href="/pricing/index.html">Pricing</a></li>
+<li><a href="/about/index.html">About</a></li>
+<li><a href="/faqs/index.html">FAQs</a></li>
+
+          </ul>
+        </div>
+        <div class="col-lg-3 col-md-6">
+          <h2 class="h5 fw-bold mb-3">Company</h2>
           <ul class="list-unstyled d-flex flex-column gap-2">
             <li><a href="/about/index.html">About us</a></li>
-            <li><a href="/features/index.html">Key Features</a></li>
-            <li><a href="/faqs/index.html">Frequently Asked Questions</a></li>
             <li><a href="/made-with-ssg/index.html">Made with SSG</a></li>
           </ul>
         </div>
@@ -149,21 +156,16 @@
           </ul>
         </div>
         <div class="col-lg-3 col-md-6">
-          <h2 class="h5 fw-bold mb-3">Support</h2>
+          <h2 class="h5 fw-bold mb-3">Discovery</h2>
           <ul class="list-unstyled d-flex flex-column gap-2">
-            <li><a href="/contact/index.html">Contact Us</a></li>
+            <li><a href="/rss.xml">RSS Feed</a></li>
+            <li><a href="/atom.xml">Atom Feed</a></li>
+            <li><a href="/feed.json">JSON Feed</a></li>
+            <li><a href="/sitemap.xml">Sitemap</a></li>
           </ul>
         </div>
-        <div class="col-lg-3 col-md-6">
-          <h2 class="h5 fw-bold mb-3">Follow Us</h2>
-          <div class="d-flex gap-3">
-            <a href="https://github.com/sebastienrousseau/bankingonai.github.io" target="_blank" rel="noopener noreferrer" aria-label="GitHub Repository (opens in a new tab)">
-              <span class="fw-semibold">GitHub ❯</span>
-            </a>
-          </div>
-        </div>
       </div>
-      <div class="text-center pt-4 mt-4 border-top text-muted" >
+      <div class="text-center pt-4 mt-4 border-top text-muted">
         {{copyright}}
       </div>
     </div>
