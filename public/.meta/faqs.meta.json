@@ -3,14 +3,14 @@
   "banner": "https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg",
   "banner_alt": "Banking On AI — Artificial Intelligence in Modern Banking & Finance",
   "date": "2026-09-01",
-  "description": "Answers to common questions regarding AI compliance, model risk governance, data privacy, and implementation in banking.",
-  "keywords": "banking AI FAQs, AI risk management FAQ, financial LLM compliance",
+  "description": "Authoritative answers to common questions regarding Banking On AI platform architecture, regulatory compliance, and implementation.",
+  "keywords": "frequently asked questions, banking on ai FAQs, financial AI technology",
   "language": "en-GB",
   "layout": "page",
   "name": "Banking On AI",
   "permalink": "https://bankingonai.co/faqs/index.html",
-  "reading_time": 1,
+  "reading_time": 3,
   "short_name": "bankingonai",
   "title": "Frequently Asked Questions | Banking On AI",
-  "word_count": 122
+  "word_count": 648
 }
