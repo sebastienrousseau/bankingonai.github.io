@@ -2,7 +2,7 @@
 site_name = "Banking on AI"
 site_title = "Banking on AI | Navigating the Future of Financial Intelligence"
 site_description = "In-depth insights, regulatory architectures, and technical publications on AI deployment in modern banking."
-base_url = "https://bankingonai.com"
+base_url = "https://bankingonai.co"
 language = "en-GB"
 
 content_dir = "_posts"
