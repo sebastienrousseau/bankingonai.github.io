@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 Disallow: /private/
-Sitemap: https://bankingonai.com/sitemap.xml
+Sitemap: https://bankingonai.co/sitemap.xml

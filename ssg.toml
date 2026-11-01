@@ -11,10 +11,12 @@ output_dir = "docs"
 
 [agents]
 agents_txt = true
-ai_plugin = true
+# No OpenAPI or MCP endpoint is served from this static site, so the
+# ai-plugin.json and mcp.json manifests would only advertise dead URLs.
+ai_plugin = false
 
 [agents.mcp]
-enabled = true
+enabled = false
 
 [edge_headers]
 targets = ["netlify", "cloudflare", "vercel"]
