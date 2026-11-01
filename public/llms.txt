@@ -1,5 +1,5 @@
-# MySsgSite
+# Banking on AI
 
-> A site built with SSG
+> In-depth insights, regulatory architectures, and technical publications on AI deployment in modern banking.
 
 Language: en-GB

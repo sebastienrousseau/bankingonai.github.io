@@ -3317,6 +3317,8 @@ select::picker(select) {
     });
 
     if (input) {
+      const escapeHtml = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+      const stripTags = (s) => new DOMParser().parseFromString(String(s ?? ""), "text/html").body.textContent || "";
       input.addEventListener('input', () => {
         const query = input.value.trim().toLowerCase();
         if (!query || !searchIndex || searchIndex.length === 0) {
@@ -3330,14 +3332,14 @@ select::picker(select) {
         ).slice(0, 8);
 
         if (matches.length === 0) {
-          results.innerHTML = '<div class="search-empty">No results found for "' + query + '"</div>';
+          results.innerHTML = '<div class="search-empty">No results found for "' + escapeHtml(query) + '"</div>';
           return;
         }
 
         results.innerHTML = matches.map(item => `
-          <a class="search-item" href="${item.url}">
-            <div class="search-item-title">${item.title}</div>
-            <div class="search-item-desc">${item.description || item.content || ''}</div>
+          <a class="search-item" href="${escapeHtml(item.url)}">
+            <div class="search-item-title">${escapeHtml(item.title)}</div>
+            <div class="search-item-desc">${escapeHtml(stripTags(item.description || item.content))}</div>
           </a>
         `).join('');
       });

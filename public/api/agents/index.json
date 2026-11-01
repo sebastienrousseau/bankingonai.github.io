@@ -5,17 +5,17 @@
     "topics": 0
   },
   "links": {
-    "index": "http://127.0.0.1:8000/api/agents/index.json",
-    "person": "http://127.0.0.1:8000/api/agents/person.json",
-    "posts": "http://127.0.0.1:8000/api/agents/posts.json",
-    "topics": "http://127.0.0.1:8000/api/agents/topics.json"
+    "index": "https://bankingonai.co/api/agents/index.json",
+    "person": "https://bankingonai.co/api/agents/person.json",
+    "posts": "https://bankingonai.co/api/agents/posts.json",
+    "topics": "https://bankingonai.co/api/agents/topics.json"
   },
   "site": {
-    "description": "A site built with SSG",
+    "description": "In-depth insights, regulatory architectures, and technical publications on AI deployment in modern banking.",
     "language": "en-GB",
-    "name": "MySsgSite",
-    "title": "",
-    "url": "http://127.0.0.1:8000"
+    "name": "Banking on AI",
+    "title": "Banking on AI | Navigating the Future of Financial Intelligence",
+    "url": "https://bankingonai.co"
   },
-  "version": "0.0.58"
+  "version": "0.0.72"
 }

@@ -2,6 +2,9 @@
 # Semantic Version: v0.0.1
 .PHONY: all build audit test contrast validate compress prune clean help
 
+# Use the latest ssg release; override with `make build SSG=/path/to/ssg`.
+SSG ?= ssg
+
 all: build
 
 help:
@@ -15,17 +18,9 @@ help:
 	@echo "  make clean      - Remove build artifacts and temporary files"
 
 build:
-	@rm -rf public docs/tags
-	@if [ -x "/Users/seb/Code/Public/Rust/static-site-generator/target/release/ssg" ]; then \
-		/Users/seb/Code/Public/Rust/static-site-generator/target/release/ssg build --content _posts --template _layouts --output public; \
-	elif command -v ssg >/dev/null 2>&1; then \
-		ssg build --content _posts --template _layouts --output public; \
-	elif [ -x "$$HOME/.cargo/bin/ssg" ]; then \
-		"$$HOME/.cargo/bin/ssg" build --content _posts --template _layouts --output public; \
-	elif [ -f build.sh ]; then \
-		bash build.sh; \
-	fi
-	@cp -R public/* docs/ 2>/dev/null || true
+	@rm -rf public docs/tags docs/.meta/tags.meta.json docs/.ssg-plugin-cache.json
+	@$(SSG) build --content _posts --template _layouts --output public
+	@cp -R public/. docs/
 	@/usr/bin/python3 scripts/post-build.py
 
 audit: contrast validate

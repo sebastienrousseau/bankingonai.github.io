@@ -13,6 +13,8 @@ class ServiceWorkerSetup {
 window.serviceWorkerSetup = new ServiceWorkerSetup();
 
 (function() {
+  const escapeHtml = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  const stripTags = (s) => new DOMParser().parseFromString(String(s ?? ""), "text/html").body.textContent || "";
   const storedTheme = localStorage.getItem("theme-mode") || "system";
   function applyTheme(mode) {
     if (mode === "system") {
@@ -122,14 +124,14 @@ window.serviceWorkerSetup = new ServiceWorkerSetup();
         }).slice(0, 8);
 
         if (matches.length === 0) {
-          results.innerHTML = "<div class=\"search-empty\">No results found for \"" + query + "\"</div>";
+          results.innerHTML = "<div class=\"search-empty\">No results found for \"" + escapeHtml(query) + "\"</div>";
           return;
         }
 
         results.innerHTML = matches.map(item => `
-          <a class="search-item" href="${item.url}">
-            <div class="search-item-title">${item.title}</div>
-            <div class="search-item-desc">${(item.description || item.content || "").replace(/<[^>]+>/g, "").slice(0, 100)}...</div>
+          <a class="search-item" href="${escapeHtml(item.url)}">
+            <div class="search-item-title">${escapeHtml(item.title)}</div>
+            <div class="search-item-desc">${escapeHtml(stripTags(item.description || item.content).slice(0, 100))}...</div>
           </a>
         `).join("");
       });

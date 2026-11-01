@@ -9,7 +9,7 @@ author: "The Banking On AI Team"
 date: "2026-09-01"
 language: "en-GB"
 layout: "index"
-permalink: "https://bankingonai.co/index.html"
+permalink: "https://bankingonai.co"
 banner: "https://cloudcdn.pro/bankingonai/v1/github/github-bankingonai.svg"
 banner_alt: "Banking On AI — Artificial Intelligence in Modern Banking & Finance"
 nav_home: true

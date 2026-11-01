@@ -5,7 +5,7 @@
     "locale": "en-GB",
     "tags": [],
     "title": "About Mission & Values | Banking On AI",
-    "url": "http://127.0.0.1:8000/about/",
+    "url": "https://bankingonai.co/about/",
     "wordCount": 133
   },
   {
@@ -14,7 +14,7 @@
     "locale": "en-GB",
     "tags": [],
     "title": "Accessibility Statement | Banking On AI",
-    "url": "http://127.0.0.1:8000/accessibility/",
+    "url": "https://bankingonai.co/accessibility/",
     "wordCount": 82
   },
   {
@@ -23,7 +23,7 @@
     "locale": "en-GB",
     "tags": [],
     "title": "Get in Touch | Banking On AI",
-    "url": "http://127.0.0.1:8000/contact/",
+    "url": "https://bankingonai.co/contact/",
     "wordCount": 161
   },
   {
@@ -32,7 +32,7 @@
     "locale": "en-GB",
     "tags": [],
     "title": "Frequently Asked Questions | Banking On AI",
-    "url": "http://127.0.0.1:8000/faqs/",
+    "url": "https://bankingonai.co/faqs/",
     "wordCount": 648
   },
   {
@@ -41,7 +41,7 @@
     "locale": "en-GB",
     "tags": [],
     "title": "The Future of Banking and Finance | Banking On AI",
-    "url": "http://127.0.0.1:8000/index.html",
+    "url": "https://bankingonai.co/index.html",
     "wordCount": 182
   },
   {
@@ -50,7 +50,7 @@
     "locale": "en-GB",
     "tags": [],
     "title": "Made with Static Site Generator (SSG) | Banking On AI",
-    "url": "http://127.0.0.1:8000/made-with-ssg/",
+    "url": "https://bankingonai.co/made-with-ssg/",
     "wordCount": 95
   },
   {
@@ -59,7 +59,7 @@
     "locale": "en-GB",
     "tags": [],
     "title": "Platform Architecture & Engineering | Banking On AI",
-    "url": "http://127.0.0.1:8000/platform/",
+    "url": "https://bankingonai.co/platform/",
     "wordCount": 166
   },
   {
@@ -68,7 +68,7 @@
     "locale": "en-GB",
     "tags": [],
     "title": "Advisory & Engagement Tiers | Banking On AI",
-    "url": "http://127.0.0.1:8000/pricing/",
+    "url": "https://bankingonai.co/pricing/",
     "wordCount": 79
   },
   {
@@ -77,7 +77,7 @@
     "locale": "en-GB",
     "tags": [],
     "title": "Privacy Policy | Banking On AI",
-    "url": "http://127.0.0.1:8000/privacy/",
+    "url": "https://bankingonai.co/privacy/",
     "wordCount": 71
   },
   {
@@ -86,7 +86,7 @@
     "locale": "en-GB",
     "tags": [],
     "title": "Banking Solutions by Sector | Banking On AI",
-    "url": "http://127.0.0.1:8000/solutions/",
+    "url": "https://bankingonai.co/solutions/",
     "wordCount": 166
   },
   {
@@ -95,7 +95,7 @@
     "locale": "en-GB",
     "tags": [],
     "title": "Terms of Use | Banking On AI",
-    "url": "http://127.0.0.1:8000/terms/",
+    "url": "https://bankingonai.co/terms/",
     "wordCount": 71
   },
   {
@@ -104,7 +104,7 @@
     "locale": "en-GB",
     "tags": [],
     "title": "Thank You | Banking On AI",
-    "url": "http://127.0.0.1:8000/thanks/",
+    "url": "https://bankingonai.co/thanks/",
     "wordCount": 27
   }
 ]
